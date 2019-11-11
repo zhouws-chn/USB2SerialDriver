@@ -6,6 +6,8 @@ Always some people get their usb2serial product work well on their computer but 
 You can download the Respositories to your computer, in order to demonstration your usb2serial product on other people's computer without network.
 
 
+
+
 在ubuntu上电自动加载驱动模块
 
 步骤如下
